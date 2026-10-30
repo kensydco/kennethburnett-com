@@ -1,24 +1,42 @@
-# KennethBurnett.com — Design Brief & Launch Notes
+# KennethBurnett.com — Executive Profile
 
-## Purpose
-Executive authority site for Kenneth L. Burnett, MBA. Lead with substantive technology credentials, cross-industry entrepreneurship and applied AI. Audience: leaders, prospective partners, conference hosts, media and advisory clients.
+Cloudflare Pages production site: https://kennethburnett.com/  
+Source repository: https://github.com/kensydco/kennethburnett-com
 
-## Locked design
-Editorial executive portfolio, deep navy / warm ivory / muted brass, authentic portrait, elegant typography, prominent evidence, legible mobile-first composition. Avoid AI clichés, claims of unlaunched products as live, fake testimonials, imaginary certifications, indistinct generic SaaS cards. User requested publication on kennethburnett.com at Cloudflare.
+## Purpose and editorial direction
 
-## Evidence
-Professional history and education sourced from Kenneth_Burnett_Mind_Moves_Resume.docx and Kenneth_Burnett_Alzheimers_Association_Resume.docx. Public feature interviews: Voyage Memphis (2025-04-22), Bluff City Magazine (2025-03-10); CBI broker directory. AI projects and venture status from owner-provided work context through October 2026.
+Premium public profile of Kenneth L. Burnett, MBA, emphasizing enterprise IT leadership, entrepreneurship, cybersecurity, AI strategy and governance. Deep navy, warm ivory and muted brass; actual photographs supplied by Kenneth; verified accomplishments and authentic project-stage language. Avoid generic AI marketing claims, fabricated metrics, unrelated brands and unlaunched products described as completed.
 
-## Project-status policy
-AIgent99, AgentOps legal and nonprofit agent, testimonial capture and City Intelligence described as developmental concepts. AgentKyros/WDE, Liyah Ops, Chef Bean and You've Been Quoted presented as active projects / workflows, not completed product launches. No commercial or performance claims unless documented.
+## Source of truth
 
-## Assets & rights
-Portrait is hotlinked from Voyage Memphis feature with visible editorial source credit; licensing for permanent self-hosting is NOT established. Replace with original owned high-resolution headshot when supplied. HOTWORX logo is hotlinked from externally hosted retailer page; remaining business marks shown as favicon sourced from Google Favicon service. Those should be replaced by official logos supplied or licensed from the respective brands. Project wordmarks are editorial labels rather than assertions of official logos.
+- Owner-provided professional resumes and project directions, through October 2026.
+- LinkedIn identity: https://www.linkedin.com/in/sirken
+- Original authorship and book title: *The Leap: A Guide to Leaving Corporate Life and Pursuing Your Passion*.
+- Kensyd portfolio and original brand assets: https://kensydco.com/
+- CyPro is Kenneth's Memphis cybersecurity venture. Its Foundation entry is intentionally text-only, with no C icon or additional LinkedIn link.
 
-## Accessibility & QA targets
-WCAG 2.2 AA, keyboard navigation, usable mobile menu, reduced motion, alt on meaningful imagery. Preview at desktop 1440, tablet 768, mobile 390 and 320. No fake forms or nonfunctional CTAs. SEO structured person schema, canonical, robots and sitemap.
+## Image and branding register
 
-## Next asset upgrades
-1. Owner-provided high-resolution portrait with rights.
-2. Official logo files for Kensyd, AgentOps, AIgent99, Kyros, Rolling Suds, HOTWORX, OurHealth Rx and The Next Chapter.
-3. Rights/permission confirmation for syndicated interview portrait.
+| Image | Source | Display treatment |
+|---|---|---|
+| Hero: `assets/kenneth-executive-power-pose.webp` | Original owner-provided photo | Preserve full head at top of image |
+| Perspective: `assets/kenneth-navy-hq.avif` | Owner-provided 1536px navy blazer original, resized to 1200px | Editorial crop 4:3, face-safe, WebP fallback |
+| Community: `assets/kenneth-autumn-hq.avif` | Owner-provided 1024×1536 autumn portrait, resized to 800×1200 | Taller 4:5/3:4 crop, object-position top, WebP fallback |
+| Company logos: `assets/branding/` | Existing Kensyd Companies brand source repository | Self-hosted original transparent files |
+| Master Fit mark: `assets/master-fit-icon.svg` | Original user-supplied visual mark | Transparent background |
+| Kyros mark: `assets/kyros-keystone-transparent.svg` | Kyros source repository, transparent adaptation | Transparent background |
+| Next Chapter: `assets/the-next-chapter.svg` | Approved podcast brand | Coming soon |
+
+## SEO/GEO and agent-readiness
+
+- Server-rendered, crawlable public HTML; single canonical HTTPS domain.
+- Semantic headings, specific career and project language, descriptive alt text and HTML navigation.
+- `robots.txt`, `sitemap.xml`, Open Graph/Twitter metadata.
+- JSON-LD graph: WebSite, ProfilePage, Person, Organization and Book.
+- `profile.json` for machine-readable professional facts; optional `llms.txt` for a concise public context summary.
+- No hidden agent API, booking API or autonomous workflow endpoints. This is **information-discovery / Level A agent readiness**, not A2A transaction capability.
+- See `docs/AGENT_SEO_READINESS.md` for validation, limitations and next steps.
+
+## Release validation
+
+On 2026-10-30, checked externally: root, robots, sitemap, profile.json and both full-resolution AVIF portraits returned HTTP 200; JSON-LD parsed; all 11 internal image assets returned HTTP 200. Cloudflare Pages reported a successful production deployment. Browser screenshot QA at desktop/tablet/mobile breakpoints remains recommended for visual composition and accessibility; deployment status does not substitute for it.
