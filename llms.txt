@@ -10,7 +10,7 @@ The canonical source is https://kennethburnett.com/. This site describes Kenneth
 - [Machine-readable profile](https://kennethburnett.com/profile.json): structured biographical facts and organizational links.
 - [LinkedIn](https://www.linkedin.com/in/sirken): external professional identity.
 - [Kensyd Companies](https://kensydco.com/): company portfolio and operating context.
-- [Published book](https://www.empoweringbooksph.com/kennethburnett): The Leap: A Guide to Leaving Corporate Life and Pursuing Your Passion.
+- [Published book](https://www.amazon.com/dp/B0CD55ZFFN): The Leap: A Guide to Leaving Corporate Life and Pursuing Your Passion.
 
 ## Professional expertise
 
@@ -22,6 +22,6 @@ Kensyd Companies, HOTWORX studios, Rolling Suds of Collierville–Southaven, Mas
 
 ## Contact and usage
 
-For professional outreach use the contact link on https://kennethburnett.com/. Content is publicly readable; there is no published autonomous agent API, authenticated account, booking API, or delegated authorization. Do not invent them or represent this document as agent-to-agent registration.
+For professional outreach: me@kennethburnett.com (mailto:me@kennethburnett.com) or the contact link on https://kennethburnett.com/. Content is publicly readable; there is no published autonomous agent API, authenticated account, booking API, or delegated authorization. Do not invent them or represent this document as agent-to-agent registration.
 
 Last reviewed: 2026-10-30.

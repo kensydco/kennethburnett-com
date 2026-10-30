@@ -58,7 +58,8 @@
       {
         "@id": "https://kennethburnett.com/#book"
       }
-    ]
+    ],
+    "email": "me@kennethburnett.com"
   },
   "isPartOf": {
     "@id": "https://kennethburnett.com/#website"
