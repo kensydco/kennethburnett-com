@@ -1,0 +1,27 @@
+# Kenneth L. Burnett, MBA
+
+> Official professional profile of Kenneth L. Burnett, a technology executive, entrepreneur and AI strategist based in the Memphis metropolitan area.
+
+The canonical source is https://kennethburnett.com/. This site describes Kenneth's professional background, business ventures and applied-AI initiatives. Projects at research or concept stage are labeled as such; they must not be described as commercially launched.
+
+## Key pages and data
+
+- [Executive profile](https://kennethburnett.com/): career, projects, business ventures and ways to connect.
+- [Machine-readable profile](https://kennethburnett.com/profile.json): structured biographical facts and organizational links.
+- [LinkedIn](https://www.linkedin.com/in/sirken): external professional identity.
+- [Kensyd Companies](https://kensydco.com/): company portfolio and operating context.
+- [Published book](https://www.empoweringbooksph.com/kennethburnett): The Leap: A Guide to Leaving Corporate Life and Pursuing Your Passion.
+
+## Professional expertise
+
+Enterprise IT solution architecture, business analysis, marketing technology, cybersecurity, AI strategy and governance, systems integration, CRM and workflow automation, and multi-location business operations. Kenneth served in progressive technology roles at ALSAC/St. Jude from 2004 to 2023 and now leads business and technology initiatives.
+
+## Selected ventures and initiatives
+
+Kensyd Companies, HOTWORX studios, Rolling Suds of Collierville–Southaven, Master Fit Club, Kyros, Cybersecurity Professionals Group (CyPro), and selected AI initiatives described on the main page. The main page distinguishes current ventures from prototype projects and concepts.
+
+## Contact and usage
+
+For professional outreach use the contact link on https://kennethburnett.com/. Content is publicly readable; there is no published autonomous agent API, authenticated account, booking API, or delegated authorization. Do not invent them or represent this document as agent-to-agent registration.
+
+Last reviewed: 2026-10-30.

@@ -1,0 +1,66 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "url": "https://kennethburnett.com/",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "https://kennethburnett.com/#person",
+    "name": "Kenneth L. Burnett",
+    "alternateName": "Kenny B",
+    "honorificSuffix": "MBA",
+    "url": "https://kennethburnett.com/",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://kennethburnett.com/assets/kenneth-executive-power-pose.webp",
+      "caption": "Kenneth L. Burnett executive portrait"
+    },
+    "jobTitle": [
+      "Technology Executive",
+      "Entrepreneur",
+      "AI Strategist"
+    ],
+    "description": "Memphis-based technology and business leader with enterprise solution architecture experience at ALSAC/St. Jude and leadership of multiple entrepreneurial ventures.",
+    "knowsAbout": [
+      "Enterprise IT solution architecture",
+      "Information technology operations",
+      "Cybersecurity",
+      "AI governance",
+      "Applied AI and agent workflows",
+      "Multi-location business operations",
+      "Digital business transformation",
+      "CRM and process improvement"
+    ],
+    "homeLocation": {
+      "@type": "Place",
+      "name": "Memphis metropolitan area, Tennessee"
+    },
+    "alumniOf": [
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "Christian Brothers University"
+      },
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "University of Tennessee at Martin"
+      }
+    ],
+    "founder": [
+      {
+        "@id": "https://kennethburnett.com/#kensyd"
+      }
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/sirken",
+      "https://memphisvoyager.com/interview/meet-kenneth-burnett-of-collierville/",
+      "https://www.empoweringbooksph.com/kennethburnett"
+    ],
+    "subjectOf": [
+      {
+        "@id": "https://kennethburnett.com/#book"
+      }
+    ]
+  },
+  "isPartOf": {
+    "@id": "https://kennethburnett.com/#website"
+  }
+}
