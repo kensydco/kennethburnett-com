@@ -19,7 +19,7 @@
       "Entrepreneur",
       "AI Strategist"
     ],
-    "description": "Memphis-based technology and business leader with enterprise solution architecture experience at ALSAC/St. Jude and leadership of multiple entrepreneurial ventures.",
+    "description": "Technology executive and entrepreneur with over 30 years across industrial automation, venture-backed startups, healthcare systems, nonprofit technology, franchises and applied AI.",
     "knowsAbout": [
       "Enterprise IT solution architecture",
       "Information technology operations",
@@ -28,7 +28,14 @@
       "Applied AI and agent workflows",
       "Multi-location business operations",
       "Digital business transformation",
-      "CRM and process improvement"
+      "CRM and process improvement",
+      "Industrial automation",
+      "Venture-backed technology startups",
+      "Healthcare information systems",
+      "Franchise operations",
+      "Nonprofit technology",
+      "Entrepreneurship",
+      "Applied artificial intelligence"
     ],
     "homeLocation": {
       "@type": "Place",
@@ -59,7 +66,11 @@
         "@id": "https://kennethburnett.com/#book"
       }
     ],
-    "email": "me@kennethburnett.com"
+    "email": "me@kennethburnett.com",
+    "award": [
+      "2002 Entrepreneur of the Year — Phoenix Chapter, National Black MBA Association",
+      "New Memphis Institute Fellows Exemplar Award"
+    ]
   },
   "isPartOf": {
     "@id": "https://kennethburnett.com/#website"

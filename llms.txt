@@ -14,7 +14,7 @@ The canonical source is https://kennethburnett.com/. This site describes Kenneth
 
 ## Professional expertise
 
-Enterprise IT solution architecture, business analysis, marketing technology, cybersecurity, AI strategy and governance, systems integration, CRM and workflow automation, and multi-location business operations. Kenneth served in progressive technology roles at ALSAC/St. Jude from 2004 to 2023 and now leads business and technology initiatives.
+Industrial automation, venture-backed startups, healthcare systems, enterprise IT solution architecture, nonprofit technology, business analysis, AI strategy and governance, systems integration, franchise operations, CRM and workflow automation. Kenneth began in industrial automation, joined Sequencia in Arizona, and later worked at Catholic Healthcare West, ING and Therapeutix/Tan4Life before holding progressive technology leadership roles at ALSAC/St. Jude from 2004 to 2023. He now leads business and technology initiatives.
 
 ## Selected ventures and initiatives
 
@@ -25,3 +25,7 @@ Kensyd Companies, HOTWORX studios, Rolling Suds of Collierville–Southaven, Mas
 For professional outreach: me@kennethburnett.com (mailto:me@kennethburnett.com) or the contact link on https://kennethburnett.com/. Content is publicly readable; there is no published autonomous agent API, authenticated account, booking API, or delegated authorization. Do not invent them or represent this document as agent-to-agent registration.
 
 Last reviewed: 2026-10-30.
+
+## Community and recognition
+
+Trezevant High School Class of 1988 and founding president of its alumni association. Mentor through the Memphis Grizzlies TEAM Mentor program; former executive director/coach with Raleigh Grizzlies Youth Sports Association; Bartlett Youth Sports track coach. Honors include the 2002 Phoenix chapter National Black MBA Association Entrepreneur of the Year Award and the New Memphis Institute Fellows Exemplar Award.
